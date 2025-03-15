@@ -16,6 +16,6 @@ Ce projet est une simulation stratégique en 3D développée avec Unity. Les jou
    - Unity version 2021.3 ou supérieure.
    - Système d'exploitation compatible avec Unity (Windows, macOS, Linux).
 2. **Télecharger le fichier**
-   -depuis ce lien : https://drive.google.com/drive/folders/1san1QAUOmr8IclyIiz7NUkN9wASoPtQr?usp=sharing
+   -depuis ce lien : https://github.com/0Abd7/AM-RPG
 3.  **Ouvrir le fichier à partir d'Unity**
   - sur Unity, cliquer sur "Open from disk" et sélectionner le projet.
